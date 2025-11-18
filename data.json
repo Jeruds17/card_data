@@ -1,7 +1,7 @@
 [
     {
         "id": "a0001",
-        "bloqueado": "true",
+        "bloqueado": "false",
         "Modelo": "Silver",
         "Nombre de Set": "Beauty Queen",
         "Tarjeta": "https://www.istripper.com/free/sets/a0001/illustrations/a0001.jpg",
@@ -146,4 +146,5 @@
             "https://t43.pixhost.to/thumbs/313/152513928_vgi0441p020169.jpg"
         ]
     }
+
 ]
